@@ -1,0 +1,127 @@
+entrez_id,interactions_raw,interactions_excl_self,self_interaction,present_after_self_interaction_removal,data_sources,ncbi_symbol,ncbi_description,ncbi_status,replaced_by_entrez_id,replacement_hgnc_symbol,organism,replacement_already_in_interactome
+934,3,3,False,True,signaling,CD24,CD24 molecule,replaced,100133941,CD24,Homo sapiens,True
+985,2,2,False,True,signaling,CDC2L2,cell division cycle 2-like 2 (PITSLRE proteins),replaced,728642,CDK11A,Homo sapiens,True
+1231,12,11,True,True,literature;signaling,CCR2,chemokine (C-C motif) receptor 2,replaced,729230,CCR2,Homo sapiens,True
+1313,3,2,True,True,literature,COP,clathrin-ordered protein,discontinued,,,Homo sapiens,
+2221,2,2,False,True,literature,FCP1,F-cell production 1,live,,,Homo sapiens,
+3807,2,2,False,True,signaling,KIR2DS2,"killer cell immunoglobulin-like receptor, two domains, short cytoplasmic tail, 2",replaced,100132285,KIR2DS2,Homo sapiens,True
+4197,2,1,True,True,literature;signaling,MDS1,myelodysplasia syndrome 1,replaced,2122,MECOM,Homo sapiens,True
+4276,3,3,False,True,binary;complexes;literature;signaling,MICA,MHC class I polypeptide-related sequence A,replaced,100507436,MICA,Homo sapiens,True
+4663,3,3,False,True,literature,NA,neuroacanthocytosis,replaced,7504,XK,Homo sapiens,True
+4687,7,7,False,True,signaling,LOC4687,similar to neutrophil cytosolic factor 1,replaced,654817,NCF1C,Homo sapiens,False
+4950,25,24,True,True,binary;kinase;literature;signaling,OCLN,occludin,replaced,100506658,OCLN,Homo sapiens,True
+6248,1,1,False,True,kinase,RSC1A1,regulator of solute carriers 1,live,,,Homo sapiens,
+6435,2,2,False,True,signaling,SFTPA1B,surfactant protein A1B,replaced,653509,SFTPA1,Homo sapiens,True
+7359,1,1,False,True,literature,UGP1,UDP-glucose pyrophosphorylase 1,replaced,7360,UGP2,Homo sapiens,True
+7449,1,1,False,True,literature,VTNR,vitronectin receptor,replaced,3685,ITGAV,Homo sapiens,True
+7527,4,4,False,True,literature,YWHAA,"tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, alpha polypeptide",replaced,7529,YWHAB,Homo sapiens,True
+7558,2,2,False,True,signaling,ZNF11B,zinc finger protein 11B,replaced,7582,ZNF33B,Homo sapiens,True
+8475,2,2,False,True,literature,EPR1,effector cell peptidase receptor 1 (non-protein coding),discontinued,,,Homo sapiens,
+9220,5,5,False,True,binary;literature,TIAF1,TGFB1-induced anti-apoptotic factor 1,replaced,399687,MYO18A,Homo sapiens,True
+9503,4,4,False,True,binary;literature,XAGE1D,"X antigen family, member 1D",replaced,653067,XAGE1B,Homo sapiens,True
+9952,8,8,False,True,metabolic,HS3ST3B2,heparan sulfate (glucosamine) 3-O-sulfotransferase 3B2,discontinued,,,Homo sapiens,
+9954,8,8,False,True,metabolic,HS3ST3A2,heparan sulfate (glucosamine) 3-O-sulfotransferase 3A2,discontinued,,,Homo sapiens,
+10431,9,9,False,True,binary;complexes;literature,TIMM23,translocase of inner mitochondrial membrane 23 homolog (yeast),replaced,100652748,TIMM23B,Homo sapiens,False
+11217,8,8,False,True,literature;signaling,AKAP2,A-kinase anchoring protein 2,replaced,445815,PALM2AKAP2,Homo sapiens,True
+16534,2,2,False,True,signaling,Kcnn4,"potassium intermediate/small conductance calcium-activated channel, subfamily N, member 4",live,,,Mus musculus,
+22142,2,2,False,True,signaling,Tuba1a,"tubulin, alpha 1A",live,,,Mus musculus,
+23285,2,2,False,True,binary;literature;signaling,KIAA1107,KIAA1107,replaced,284697,BTBD8,Homo sapiens,True
+23574,2,2,False,True,literature,PRG1,p53-responsive gene 1,live,,,Homo sapiens,
+23578,5,5,False,True,signaling,PEFLIN,PEF protein with a long N-terminal hydrophobic domain,replaced,553115,PEF1,Homo sapiens,True
+26148,2,2,False,True,binary;literature;signaling,C10orf12,chromosome 10 open reading frame 12,replaced,84458,LCOR,Homo sapiens,True
+26236,1,1,False,True,binary,NCRNA00300,non-protein coding RNA 300,replaced,100505879,KIF25-AS1,Homo sapiens,False
+50818,4,4,False,True,literature,DYT10,dystonia 10,replaced,112476,PRRT2,Homo sapiens,True
+51402,3,3,False,True,literature;signaling,HSFX1,"heat shock transcription factor family, X linked 1",replaced,100506164,HSFX1,Homo sapiens,True
+53369,1,1,False,True,literature,HDL3,Huntington-like neurodegenerative disorder 2,live,,,Homo sapiens,
+55264,1,1,False,True,literature,C21orf77,chromosome 21 open reading frame 77,replaced,140290,TCP10L,Homo sapiens,True
+57667,1,1,False,True,signaling,KIAA1546,KIAA1546 protein,replaced,54790,TET2,Homo sapiens,True
+57714,1,1,False,True,literature,KIAA1618,KIAA1618,replaced,57674,RNF213,Homo sapiens,True
+64173,1,1,False,True,binary,SPATA1,spermatogenesis associated 1,replaced,100505741,SPATA1,Homo sapiens,False
+65259,2,2,False,True,signaling,C16orf28,chromosome 16 open reading frame 28,replaced,64718,UNKL,Homo sapiens,True
+79686,4,4,False,True,binary;literature;signaling,LINC00341,long intergenic non-protein coding RNA 341,replaced,161176,SYNE3,Homo sapiens,True
+79904,1,1,False,True,binary,FLJ11710,uncharacterized protein FLJ11710,discontinued,,,Homo sapiens,
+79984,3,3,False,True,signaling,FLJ21736,esterase 31,replaced,23491,CES3,Homo sapiens,True
+80761,1,1,False,True,literature,UPK3B,uroplakin 3B,replaced,105375355,UPK3B,Homo sapiens,False
+83459,1,1,False,True,literature,LOC83459,hypothetical protein LOC83459,discontinued,,,Homo sapiens,
+83747,8,8,False,True,binary,C20orf57,chromosome 20 open reading frame 57,replaced,128853,DUSP15,Homo sapiens,True
+84953,1,1,False,True,literature,MICALCL,MICAL C-terminal like,replaced,9645,MICAL2,Homo sapiens,True
+85287,14,14,False,True,binary,KRTAP4-7,keratin associated protein 4-7,replaced,100132476,KRTAP4-7,Homo sapiens,False
+85362,4,4,False,True,signaling,C20orf158,chromosome 20 open reading frame 158,replaced,11083,DIDO1,Homo sapiens,True
+90462,1,1,False,True,signaling,LOC90462,zinc finger protein 605-like,discontinued,,,Homo sapiens,
+90834,5,5,False,True,literature,LOC90834,uncharacterized protein BC001742,discontinued,,,Homo sapiens,
+101543,2,2,False,True,signaling,Wtip,WT1 interacting protein,live,,,Mus musculus,
+113386,1,0,True,False,binary,LOC113386,similar to envelope protein,discontinued,,,Homo sapiens,
+120329,3,2,True,True,literature,CASP12,caspase 12 (gene/pseudogene),replaced,100506742,CASP12,Homo sapiens,False
+123887,3,3,False,True,literature;signaling,ZG16,zymogen granule protein 16 homolog (rat),replaced,653808,ZG16,Homo sapiens,True
+127557,17,17,False,True,signaling,ZBTB8,zinc finger and BTB domain containing 8,replaced,653121,ZBTB8A,Homo sapiens,True
+142937,1,1,False,True,binary,LOC142937,uncharacterized protein BC008131,discontinued,,,Homo sapiens,
+147791,1,1,False,True,literature,LOC147791,uncharacterized LOC147791,discontinued,,,Homo sapiens,
+150421,2,2,False,True,signaling,LOC150421,similar to hypothetical protein PP2447 (H. sapiens),discontinued,,,Homo sapiens,
+151568,4,4,False,True,signaling,LOC151568,hypothetical protein BC009491,replaced,547,KIF1A,Homo sapiens,True
+153561,7,7,False,True,binary,GUSBP1,"glucuronidase, beta pseudogene 1",replaced,728411,GUSBP1,Homo sapiens,False
+155060,4,3,True,True,binary,LOC155060,AI894139 pseudogene,live,,,Homo sapiens,
+220766,9,9,False,True,signaling,CEP170L,centrosomal protein 170kDa-like,replaced,645455,CEP170P1,Homo sapiens,True
+221016,2,2,False,True,binary;literature;signaling,CCDC7,coiled-coil domain containing 7,replaced,79741,CCDC7,Homo sapiens,False
+257054,1,1,False,True,literature,LOC257054,similar to D-2-hydroxyglutarate dehydrogenase,replaced,728294,D2HGDH,Homo sapiens,True
+282049,3,3,False,True,literature,NMT2,N-myristoyltransferase 2,live,,,Bos taurus,
+284169,7,7,False,True,signaling,LOC284169,hypothetical gene supported by BC033590,discontinued,,,Homo sapiens,
+285135,1,1,False,True,literature,FSIP2,fibrous sheath interacting protein 2,replaced,401024,FSIP2,Homo sapiens,True
+285216,16,16,False,True,metabolic,LOC285216,hypothetical protein LOC285216,replaced,100287639,MTHFD2P1,Homo sapiens,False
+285464,2,2,False,True,binary;literature,CRIPAK,cysteine rich PAK1 inhibitor,discontinued,,,Homo sapiens,
+285733,1,1,False,True,binary,LOC285733,hypothetical LOC285733,replaced,100507203,SMLR1,Homo sapiens,False
+286297,5,5,False,True,metabolic,LOC286297,methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 1 like pseudogene,live,,,Homo sapiens,
+286301,3,3,False,True,signaling,FAM27E3,"family with sequence similarity 27, member E3",replaced,100131997,FAM27E3,Homo sapiens,True
+333931,1,1,False,True,literature,HIST2H3B,"histone cluster 2, H3b",discontinued,,,Homo sapiens,
+339047,3,3,False,True,binary,LOC339047,hypothetical protein LOC339047,replaced,339044,PKD1P1,Homo sapiens,False
+375010,2,2,False,True,binary;literature,LOC375010,"ankyrin repeat domain 20 family, member A pseudogene",replaced,100874392,ANKRD20A12P,Homo sapiens,False
+378465,2,2,False,True,binary;literature,HSN2,"hereditary sensory neuropathy, type II",replaced,65125,WNK1,Homo sapiens,True
+387569,5,5,False,True,literature,ACF,Asymmetric crying facies (Cayler cardiofacial syndrome),live,,,Homo sapiens,
+388774,5,5,False,True,signaling,LOC388774,YHGM196,replaced,55061,SUSD4,Homo sapiens,False
+389834,2,2,False,True,signaling,LOC389834,ankyrin repeat domain 57 pseudogene,live,,,Homo sapiens,
+400714,7,7,False,True,signaling,LOC400714,similar to zinc finger protein 78 isoform 1,discontinued,,,Homo sapiens,
+414927,1,1,False,True,binary,MGC34796,"sepiapterin reductase (7,8-dihydrobiopterin:NADP+ oxidoreductase) pseudogene",live,,,Homo sapiens,
+439935,2,2,False,True,binary,MGC24125,hypothetical protein MGC24125,replaced,728175,LINC02363,Homo sapiens,False
+440258,4,4,False,True,binary;signaling,LOC440258,similar to p40,discontinued,,,Homo sapiens,
+440264,2,2,False,True,literature,LOC440264,hypothetical LOC440264,discontinued,,,Homo sapiens,
+440321,16,16,False,True,binary,FLJ32679,golgin-like hypothetical protein LOC440321,replaced,100132565,GOLGA8F,Homo sapiens,True
+440552,13,13,False,True,binary;signaling,LOC440552,OK/SW-cl.16,discontinued,,,Homo sapiens,
+440670,1,1,False,True,binary,AE01,uncharacterized LOC440670,discontinued,,,Homo sapiens,
+441241,7,7,False,True,complexes,LOC441241,vitamin K epoxide reductase complex subunit 1L1 pseudogene,live,,,Homo sapiens,
+474168,1,1,False,True,literature,WG,Wegener granulomatosis,live,,,Homo sapiens,
+643314,1,1,False,True,literature,KIAA0754,KIAA0754,replaced,23499,MACF1,Homo sapiens,True
+646214,4,3,True,True,binary,LOC646214,p21 (RAC1) activated kinase 2 pseudogene,live,,,Homo sapiens,
+653048,1,1,False,True,literature,XAGE1C,"X antigen family, member 1C",replaced,653067,XAGE1B,Homo sapiens,True
+653219,1,1,False,True,binary;literature,XAGE1A,"X antigen family, member 1A",replaced,653220,XAGE1A,Homo sapiens,True
+653394,1,1,False,True,literature,PGM5P1,phosphoglucomutase 5 pseudogene 1,discontinued,,,Homo sapiens,
+653877,1,1,False,True,literature,LOC653877,small subunit processome component 20 homolog,discontinued,,,Homo sapiens,
+727738,8,8,False,True,binary;literature,AREGB,amphiregulin B,replaced,374,AREG,Homo sapiens,True
+727751,1,1,False,True,binary,LOC727751,golgin A2 pseudogene,live,,,Homo sapiens,
+727787,1,1,False,True,literature,LOC727787,"killer cell immunoglobulin-like receptor, three domains, long cytoplasmic tail, 2-like",replaced,3812,KIR3DL2,Homo sapiens,True
+728071,9,9,False,True,binary,FAM203B,"family with sequence similarity 203, member B",replaced,51236,HGH1,Homo sapiens,True
+728242,1,1,False,True,literature,XAGE2B,"X antigen family, member 2B",replaced,9502,XAGE2,Homo sapiens,True
+730426,1,1,False,True,literature,LOC730426,neuron navigator 1-like,discontinued,,,Homo sapiens,
+730441,1,1,False,True,binary,LOC730441,trypsin X3 pseudogene,replaced,207147,PRSS59P,Homo sapiens,False
+731682,1,1,False,True,literature,LOC731682,"similar to HLA class II histocompatibility antigen, DQ(1) alpha chain precursor (DC-4 alpha chain)",replaced,3117,HLA-DQA1,Homo sapiens,True
+732272,69,68,True,True,binary,LOC732272,uncharacterized LOC732272,discontinued,,,Homo sapiens,
+751867,10,10,False,True,binary;literature,SNHG3-RCC1,SNHG3-RCC1 readthrough transcript,replaced,1104,RCC1,Homo sapiens,True
+100124696,27,26,True,True,literature,TEC,transient erythroblastopenia of childhood,live,,,Homo sapiens,
+100129791,2,2,False,True,binary,LOC100129791,hypothetical protein LOC100129791,discontinued,,,Homo sapiens,
+100133763,6,6,False,True,binary,LOC100133763,"HLA class II histocompatibility antigen, DQ alpha 1 chain-like",discontinued,,,Homo sapiens,
+100134230,1,1,False,True,binary;literature,LOC100134230,hypothetical protein LOC100134230,replaced,9659,PDE4DIP,Homo sapiens,True
+100187828,1,0,True,False,literature,HBD,hypophosphatemic bone disease,live,,,Homo sapiens,
+100287428,1,1,False,True,literature,PNMA6C,paraneoplastic Ma antigen family member 6C,replaced,84968,PNMA6A,Homo sapiens,True
+100287466,1,1,False,True,literature,PNMA6D,paraneoplastic Ma antigen family member 6D (pseudogene),replaced,728513,PNMA6B,Homo sapiens,False
+100288160,1,1,False,True,literature,LOC100288160,esophagus cancer-related gene-2 interaction susceptibility protein,discontinued,,,Homo sapiens,
+100290337,34,34,False,True,literature,LOC100290337,DNA damage-binding protein 1-like,discontinued,,,Homo sapiens,
+100291837,3,3,False,True,literature,LOC100291837,40S ribosomal protein S21-like,replaced,6227,RPS21,Homo sapiens,True
+100292719,1,1,False,True,literature,LOC100292719,protein FAM127B-like,replaced,26071,RTL8A,Homo sapiens,True
+100293130,1,1,False,True,literature,LOC100293130,similar to kruppel-related zinc finger protein hcKrox,discontinued,,,Homo sapiens,
+100293737,2,2,False,True,literature,LOC100293737,similar to protein phosphatase 1 regulatory subunit 14B,discontinued,,,Homo sapiens,
+100294114,5,5,False,True,literature,LOC100294114,"similar to major histocompatibility complex, class II, DQ alpha 1",replaced,3117,HLA-DQA1,Homo sapiens,True
+100294162,1,1,False,True,literature,LOC100294162,"similar to major histocompatibility complex, class II, DQ alpha 1",replaced,3117,HLA-DQA1,Homo sapiens,True
+100294190,1,1,False,True,literature,LOC100294190,"similar to major histocompatibility complex, class II, DQ alpha 1",replaced,3117,HLA-DQA1,Homo sapiens,True
+100294277,5,5,False,True,literature,LOC100294277,"similar to major histocompatibility complex, class II, DQ alpha 1",replaced,3117,HLA-DQA1,Homo sapiens,True
+100505793,1,1,False,True,literature,LOC100505793,serine/arginine-rich splicing factor 10-like,replaced,10772,SRSF10,Homo sapiens,True
+100529067,6,6,False,True,literature,SERF2-C15ORF63,SERF2-C15orf63 readthrough,live,,,Homo sapiens,
+100533195,1,1,False,True,literature,FAM24B-CUZD1,FAM24B-CUZD1 readthrough,live,,,Homo sapiens,
+100653323,4,4,False,True,literature,LOC100653323,uncharacterized LOC100653323,discontinued,,,Homo sapiens,
