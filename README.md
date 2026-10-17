@@ -18,7 +18,7 @@ This project uses the same pipeline as `../hypertention - breast cancer`, with o
    - Gene overlap per disease pair: Jaccard index, overlap coefficient, fold enrichment and hypergeometric p-value, plus a cutoff sensitivity check.
    - Menche network measures: **localization** (LCC size and mean shortest distance d_s) and **separation** s_AB, each with a z-score against random gene sets. Set `RANDOM_MODEL` to `"uniform"` or `"degree"`.
    - Writes `outputs/cutoff_<value>/` with `gene_overlap.csv`, `localization_*.csv`, `separation_*.csv` and `gene_lists/*.txt`.
-3. **`visualize_network.ipynb`** exports Cytoscape node and edge CSVs, plus interactive HTML views (vis-network) of the OC + HTN network, the OC + HTN + SBP network and the RAS genes. Writes `outputs/cutoff_0.4/network_*/`.
+3. **`visualize_network.ipynb`** builds interactive HTML views (vis-network) of the OC + HTN network, the OC + HTN + SBP network and the RAS genes. Writes `outputs/cutoff_0.4/network_*/`.
 
 ## Requirements
 Python 3 with `pandas`, `numpy`, `networkx`, `openpyxl`, Jupyter.

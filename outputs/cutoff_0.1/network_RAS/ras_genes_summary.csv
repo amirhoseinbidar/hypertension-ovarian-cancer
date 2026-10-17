@@ -1,0 +1,24 @@
+gene,entrez_id,in_interactome,diseases,links_to_RAS_genes,links_to_disease_genes,degree_in_full_network
+ACE,1636,True,HTN + SBP,1.0,2.0,5.0
+ACE2,59272,True,HTN,1.0,3.0,7.0
+AGT,183,True,HTN + SBP,9.0,6.0,17.0
+AGTR1,185,True,OC + HTN,2.0,15.0,25.0
+AGTR2,186,True,,2.0,6.0,10.0
+REN,5972,True,HTN + SBP,1.0,3.0,8.0
+ATP6AP2,10159,True,,1.0,1.0,3.0
+MAS1,4142,True,HTN + SBP,1.0,1.0,1.0
+MRGPRD,116512,False,,,,
+LNPEP,4012,True,HTN + SBP,0.0,5.0,7.0
+ANPEP,290,True,,0.0,1.0,6.0
+ENPEP,2028,True,HTN + SBP,1.0,1.0,2.0
+MME,4311,True,OC + HTN + SBP,0.0,51.0,150.0
+CMA1,1215,True,,1.0,4.0,8.0
+CTSG,1511,True,,1.0,10.0,26.0
+CPA3,1359,False,,,,
+CTSA,5476,True,,0.0,4.0,19.0
+KLK1,3816,True,,0.0,1.0,4.0
+KLK2,3817,True,OC,0.0,6.0,13.0
+PRCP,5547,True,,1.0,1.0,2.0
+PREP,5550,True,HTN,1.0,3.0,8.0
+NLN,57486,True,HTN,0.0,0.0,1.0
+THOP1,7064,True,,1.0,4.0,10.0
