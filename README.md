@@ -4,14 +4,14 @@ Do ovarian cancer (OC) and hypertension (HTN) share disease genes, and do their 
 
 Inputs
 
-| File                                                        | Content                                                                      |
-| ----------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| `../our_paper/sep_25/DataS1_interactome.tsv`              | Menche interactome (genes as Entrez IDs). A copy is also kept in `inputs/` |
-| `inputs/hgnc_complete_set.txt`                            | HGNC table, used to map Entrez IDs to gene symbols                           |
-| `inputs/diseases/ovarian cancer-MONDO_0008170.tsv`        | Open Targets gene–disease associations for OC                               |
-| `inputs/diseases/hypertensive disorder-MONDO_0005044.tsv` | Same, for HTN                                                                |
-| `inputs/diseases/systolic blood pressure-EFO_0006335.tsv` | Same, for SBP                                                                |
-| `inputs/menche_sourcecode/`, `inputs/menche_paper/`     | Reference code, paper and supplementary material                             |
+| File                                                        | Content                                            |
+| ----------------------------------------------------------- | -------------------------------------------------- |
+| `inputs/DataS1_interactome.tsv`                           | Menche interactome                                 |
+| `inputs/hgnc_complete_set.txt`                            | HGNC table, used to map Entrez IDs to gene symbols |
+| `inputs/diseases/ovarian cancer-MONDO_0008170.tsv`        | Open Targets gene–disease associations for OC     |
+| `inputs/diseases/hypertensive disorder-MONDO_0005044.tsv` | Same, for HTN                                      |
+| `inputs/diseases/systolic blood pressure-EFO_0006335.tsv` | Same, for SBP                                      |
+| `inputs/menche_sourcecode/`, `inputs/menche_paper/`     | Reference code, paper and supplementary material   |
 
 ## Pipeline
 
